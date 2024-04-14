@@ -1,2 +1,2 @@
 # ICM_102954
- Repositório para a cadeira de ICM
+ Individual Git Repository (Android) for personal portfolio
